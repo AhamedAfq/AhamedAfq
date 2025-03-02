@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🚀 Hey there! I'm Ashfak Ahamed Alauddeen 👋  
 
-<!--
-**AhamedAfq/AhamedAfq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me  
+🔹 Passionate **SDET** with **4+ years** of experience in **Mobile, UI, and Backend automation**.  
+🔹 Exploring **IoT Security** with **NMap, Shodan and CVE**.  
+🔹 Enthusiastic about **Web3** and **Decentralized applications**.
+🔹 Currently building **scalable playwright test frameworks**.
+🔹 Contributed as an **iOS Developer** using **UIKit, Firebase, and Fastlane** at Peoplehum.
+🔹 Hands-on experience with **Spring Boot**, where I provided **some enhancements and bug fixes**
 
-Here are some ideas to get you started:
+## 🔨 Tech Stack  
+💻 **Languages**: Java | Python | Swift
+🤖 **Test Automation**: Selenium | XCTest | Appium | REST Assured
+🛠 **Tools & Technologies**: Docker | Postman | Git | MySQL | Grafana | Elastic | Redis | Kafka  
+🛡 **Security Testing**: NMap | Shodan | Open-Source CVE Databases  
+📦 **Cloud & DevOps**: AWS | Jenkins | CI/CD Pipelines  
+📱 **iOS Development**: UIKit | Firebase | Fastlane | Xcode  
+☕ **Backend**: Spring Boot | REST APIs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects  
+🔹 **NMap Security Scanner** – Integrating **Python, Shodan, and Docker** for penetration testing.  
+🔹 **XCUI Test Framework** – A robust **iOS UI automation** setup with **JSON-driven test data**.
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhamedAfq&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedAfq&layout=compact&theme=tokyonight)  
+
+## 🌐 Connect with Me  
+🔗 [LinkedIn](https://www.linkedin.com/in/ahamedafq/) | 🐦 [Twitter](https://x.com/AhamedAfq) | 📧 ashfakahamed142@example.com  
+
+---
+
+⭐ **Fun Fact:** *I love playing Cricket, Badminton, and Table Tennis! 🏏🏸🏓*  
